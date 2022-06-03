@@ -21,7 +21,7 @@ nk_autophagy
 
 # source- https://www.genome.jp/entry/N00155
 ``` 
-3. Write two vectors- numercal and charater, and compile them in a dataframe.
+3. Write two vectors- numercal and character, and compile them in a dataframe.
 ```{R}
 genes <- c('Nfkb2', 'Relb', 'Nfkbia', 'Map3k14', 'Rel')
 genes
